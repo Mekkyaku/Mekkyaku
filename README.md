@@ -1,5 +1,4 @@
-#
-🎯 Interessado em Gamedev e Game Design
+#🎯 Interessado em Gamedev e Game Design
 
 * São Paulo - Várzea Paulista/Jundiaí;
 * Formado em TI pela ETEC Vasco Antônio Venchiarutti;
@@ -7,7 +6,7 @@
 * Buscando primeiro emprego como Dev;
 * Aprofundando o conhecimento em C#
 * Familiarizado com:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/c/c-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/java/java-original.svg">
