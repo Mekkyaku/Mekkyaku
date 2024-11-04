@@ -1,4 +1,4 @@
-#🎯 Interessado em Gamedev e Game Design
+<h1>🎯 Interessado em Gamedev e Game Design</h1>
 
 * São Paulo - Várzea Paulista/Jundiaí;
 * Formado em TI pela ETEC Vasco Antônio Venchiarutti;
