@@ -3,7 +3,7 @@
 * 🏡 São Paulo - Várzea Paulista/Jundiaí;
 * 💻 Informática pra Internet - ETEVAV;
 * 💻 Técnico em ADS interrompido (3/6);
-* 📡 Buscando primeiro emprego como Dev;
+* 📡 Buscando primeiro emprego como Dev Junior;
 * 👨‍💻 Aprofundando o conhecimento em C#
 * Familiarizado com:
 <div style="display: inline_block">
