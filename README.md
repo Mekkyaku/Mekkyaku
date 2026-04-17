@@ -1,11 +1,12 @@
-<h1>🎯 Interessado em Desenvolvimento em C# e JAVA</h1>
+<h1>🎯 Interessado em Inteligência Artificial e Automação de processos< /h1>
 
 * 🎮 Apaixonado por Game Dev e Game Design
-* 🏡 São Paulo - Várzea Paulista/Jundiaí;
-* 💻 Informática pra Internet - ETEVAV;
-* 💻 Técnico em ADS interrompido (3/6);
-* 📡 Buscando primeiro emprego como Dev Junior;
-* 👨‍💻 Aprofundando o conhecimento em C#
+* 🏡 São Paulo - Campinas - Barão Geraldo
+* 💻 Cursando <b>Ciência da Computação - UNICAMP</b>
+* 💻 Formado em Técnico em Informática pra Internet - ETEVAV;
+* 💻 Técnólogo em ADS interrompido (3/6);
+* 📡 Buscando conhecimento e experiência na área da computação
+* 👨‍💻 Aprofundando o conhecimento em IAs
 * Familiarizado com:
 <div style="display: inline_block">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
