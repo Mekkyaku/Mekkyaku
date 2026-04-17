@@ -1,4 +1,4 @@
-<h1>🎯 Interessado em Inteligência Artificial e Automação de processos< /h1>
+<h1>🎯 Interessado em Inteligência Artificial e Automação de processos </h1>
 
 * 🎮 Apaixonado por Game Dev e Game Design
 * 🏡 São Paulo - Campinas - Barão Geraldo
