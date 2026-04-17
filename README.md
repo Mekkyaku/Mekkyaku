@@ -5,6 +5,7 @@
 * 💻 Cursando <b>Ciência da Computação - UNICAMP</b>
 * 💻 Formado em Técnico em Informática pra Internet - ETEVAV;
 * 💻 Técnólogo em ADS interrompido (3/6);
+* 💼 Trabalhando como aprendiz na área de melhoria contínua da Klabin;
 * 📡 Buscando conhecimento e experiência na área da computação
 * 👨‍💻 Aprofundando o conhecimento em IAs
 * Familiarizado com:
